@@ -8,7 +8,7 @@ import unittest
 def div(n1, n2):
     pass
     n1/n2
-    return n1/n2
+    return n1 / n2
 
 
 # DO NOT TOUCH THE BELOW CODE
